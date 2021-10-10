@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @aviralkaushik47. A 17 year old developer from India
+- 👋 Hi, I’m @aviralkaushik47. A 17 year old developer.
 - 👀 I’m interested in ...coding, game/web/app development
-- 🌱 I’m currently learning ...advanced python and javascript for AI based applications
-- 💞️ I’m looking to collaborate on ... any topic as long as it's related to coding, developing, or working with a new language.
+- 🌱 I’m currently learning ...advanced python and javascript for AI based applications and machine learning.
+- 💞️ I’m looking to collaborate on ... security projects based on AI. For example Face mapping and recognition in cars to assess if the driver is paying attention on the road or not.
+- I am currently working on Lane- line detection for cars and fire detection and localization using surveillance camera.
 - 📫 How to reach me ...ig @_nycxc._
 email- aviralkaushik47@gmail.com
 
