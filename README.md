@@ -1,13 +1,11 @@
-HI MY NAME IS AVIRAL. I AM A 17 YEAR OLD DEVELOPER FROM INDIA.
+## HI MY NAME IS AVIRAL. I AM A 17 YEAR OLD DEVELOPER FROM INDIA.
 
 - 👀 I’m interested in ...coding, game/web/app development
 - 🌱 I’m currently learning ...advanced python and javascript for AI based applications and machine learning.
 - 💞️ I’m looking to collaborate on ... security projects based on AI. For example Face mapping and recognition in cars to assess if the driver is paying attention on the road or not.
 - I am currently working on Lane- line detection for cars and fire detection and localization using surveillance camera.
 - 📫 Contact me on [Instagram](https://www.instagram.com/_nycxc._/).
-
-
-email- aviralkaushik47@gmail.com
+                    [email](aviralkaushik47@gmail.com)
 
 DO CHECK OUT MY PROJECTS 
 
