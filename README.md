@@ -1,4 +1,4 @@
-## HI MY NAME IS AVIRAL. I AM A 17 YEAR OLD DEVELOPER FROM INDIA.
+## HI MY NAME IS AVIRAL. I AM A 18 YEAR OLD DEVELOPER FROM INDIA.
 
 - 👀 I’m interested in ...coding, game/web/app development
 - 🌱 I’m currently learning ...advanced python and javascript for AI based applications and machine learning.
