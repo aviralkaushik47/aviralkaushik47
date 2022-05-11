@@ -10,7 +10,7 @@
 DO CHECK OUT MY PROJECTS 
 
 I also post cs50 and cs50x solutions. I got 100 percent in all the problem sets and labs.
-
+My scartch game [Astroid Arcade](https://scratch.mit.edu/projects/481576253).
 <!---
 aviralkaushik47/aviralkaushik47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
